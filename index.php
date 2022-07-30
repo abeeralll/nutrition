@@ -34,6 +34,7 @@
 
                                 <div class="col-md-6 d-flex flex-column p-0">
                                     <img src="image/emma.jpg" class="image" >
+                                    
                                 </div>
                                 <div class="col ">
                                     <div class="row flex-row p-5">
