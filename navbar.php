@@ -17,16 +17,14 @@
                     <a class="nav-link" aria-current="page" href="index.php">Home</a>
                 </li>
                 <li class="nav-item hoverActive">
-                    <a class="nav-link" aria-current="page" href="meetSteph.php">Meet Steph</a>
+                    <a class="nav-link" aria-current="page" href="meetAdriana.php">Meet Adriana</a>
                 </li>
                 <li class="nav-item hoverActive">
                     <a class="nav-link" aria-current="page" href="mealPlan.php">Meal Plan Packages</a>
                 </li>
+               
                 <li class="nav-item hoverActive">
-                    <a class="nav-link" aria-current="page" href="FAQ.php">FAQs</a>
-                </li>
-                <li class="nav-item hoverActive">
-                    <a class="nav-link" href="contactus.php">Contact</a>
+                    <a class="nav-link" href="contact.php">Contact</a>
                 </li>
 
             </ul>
@@ -37,3 +35,7 @@
 
     </div>
 </nav>
+
+<style>
+    
+</style>

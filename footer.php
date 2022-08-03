@@ -23,3 +23,9 @@
         </form>
     </div>
 </div>
+
+<style>
+    .footer{
+    background-color: #e0b86e;
+}
+</style>

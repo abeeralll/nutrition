@@ -1,4 +1,3 @@
-
 .navbar-nav {
     margin:0 auto;
     display: block;
@@ -58,11 +57,9 @@
     .navbar-brand{
         display:none;
     }
-   
-    .body{
+    .content{
         margin-right:230px;
     }
-    
 }
 
 @media screen and (min-width:2px )and (max-width:992px){
@@ -70,10 +67,11 @@
         display: block;
         float:none;
     }
-
+    
+ 
 }
 
-
+    
 .header{
     min-height:15vh;
     background-color:#e0b86e;
@@ -89,6 +87,3 @@
 
 }
 
-.footer{
-    background-color: #e0b86e;
-}
