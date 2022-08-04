@@ -29,6 +29,7 @@
                     attentive with any questions that I had asked
                     throughout the program. Definitely recommended
                     Adriana to help achieve your health and fitness goals.”
+                    
                 </div>
                 <div class="d-flex flex-row justify-content-center" style="font-style:italic;">
                     <h3>-Emma Hayes</h3>
