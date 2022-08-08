@@ -14,13 +14,13 @@
 <body>
     
         
-        <div class="container-fluid">
+        
         <?php include('home.php') ?>
 
         
 
         <?php include('footer.php') ?>
-        </div>
+       
 
 
         <script src="js/bootstrap.bundle.js"></script>

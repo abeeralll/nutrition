@@ -2,7 +2,7 @@
 
 <div class="content">
     <div class="container-fluid header d-flex justify-content-center align-items-center mt-0">
-        <span class="boxText">"Eat Well, Live Strong!"</span>
+        <span class="boxText" style="font-size:2rem; font-weight:200">"Eat Well, Live Strong!"</span>
     </div>
 
     <div class="container" style="width:100%; height:auto;">
@@ -10,7 +10,7 @@
     </div>
 
     <div class="container  d-flex flex-column justify-content-center align-items-center ">
-        <h3 class="my-5">What are clients Saying?</h3>
+        <h3 class="my-5" style="color:darkgoldenrod; font-weight:500">What are clients Saying?</h3>
 
 
         <div class="row">
