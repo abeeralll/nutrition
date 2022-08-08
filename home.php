@@ -28,7 +28,7 @@
                     getting results. Adriana was also very helpful and
                     attentive with any questions that I had asked
                     throughout the program. Definitely recommended
-                    Adriana to help achieve your health and fitness goals.”
+                    Adriana to help achieve your health and fitness goals. ”
                     
 
                 </div>
