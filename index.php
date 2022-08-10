@@ -13,13 +13,16 @@
 
 <body>
     
-        
-        
-        <?php include('home.php') ?>
+    <div class="container-fluid" style="max-width:100%">
+    
+    <?php include('home.php') ?>
 
         
 
-        <?php include('footer.php') ?>
+<?php include('footer.php') ?>
+    </div>    
+        
+     
        
 
 

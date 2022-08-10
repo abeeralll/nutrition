@@ -1,34 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Contact Me</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
-    <div class="container-fluid">
 
-    <?php include('navbar.php') ?>
 
-    <div class="content">
+    <?php include('navbar.php')?>
+    <div class="container-fluid" style="max-width:100%">
 
-    
+    <div class="container" style="margin: right 230px;">
+        <div class="row mt-5">
+            <h1 class="d-flex flex-row justify-content-center align-items-center" style="color:darkgoldenrod; font-weight:400">
+                Contact Adriana
+            </h1>
+            <p class="d-flex flex-row justify-content-center align-items-center mt-3">
+                For any enquiries please complete the details below or feel free to send an email at info@adrianadanielsnutrition.com.au
+            </p>
+        </div>
+        <div class="row mt-3">
+            <form>
+                <div class="mb-3">
+                    <div class="row">
+                        <div class="col">
+                            <label for="fname" class="form-label">First name:</label><br>
+                            <input type="text" class="form-control" id="fname" name="fname" required><br>
+
+                        </div>
+                        <div class="col">
+                            <label for="lname" class="form-label">Last name:</label><br>
+                            <input type="text" class="form-control" id="lname" name="lname" required>
+                        </div>
+                    </div>
+
+
+
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Email address</label>
+                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" required>
+                    <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Message</label>
+                    <textarea class="form-control" rows="4" cols="50" name="comment" form="usrform" required>
+                    </textarea>
+
+
+                </div>
+                <div class="m-5 d-flex flex-row justify-content-center align-items-center">
+                <button type="submit" class="btn px-5 " style="background-color:black; color:#e0b86e;">Submit</button>
+
+                </div>
+
+
+               
+            </form>
+        </div>
+    </div>
+
+   
+
+
+    <?php include('footer.php') ?>
 </div>
 
 
-<?php include('footer.php') ?>
-    
-    </div>
 
 </body>
 
 <script src="js/bootstrap.bundle.js"></script>
-        <script src="js/jquery-3.6.0.min.js"></script>
-        <script src="lib/jquery.form.js"></script>
-        <script src="dist/jquery.validate.js"></script>
-        <script src="https://kit.fontawesome.com/70c966dfe1.js" crossorigin="anonymous"></script>
+<script src="js/jquery-3.6.0.min.js"></script>
+<script src="lib/jquery.form.js"></script>
+<script src="dist/jquery.validate.js"></script>
+<script src="https://kit.fontawesome.com/70c966dfe1.js" crossorigin="anonymous"></script>
+
 </html>

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Meet Adriana</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -15,7 +15,8 @@
 
 
     <?php include('navbar.php') ?>
-    <div class="content">
+    <div class="container-fluid" style="max-width:100%">
+    
         <div class="container-fluid header d-flex justify-content-center align-items-center mt-0">
             <span class="boxText" style="font-size:2rem; font-weight:200">“Your meal plan will be personalised JUST FOR YOU to compliment your
                 personal needs, goals, preferences and lifestyle using a non-restrictive approach to eating”</span>
@@ -55,10 +56,13 @@
         </div>
 
 
-    </div>
+        
+ <?php include('footer.php') ?>
+ </div>
+    
 
 
-    <?php include('footer.php') ?>
+   
 
 
 

@@ -35,6 +35,8 @@
         right: 0;
         background-color: #fffefe;
         display: block;
+        margin-top: 170px; 
+        
     }
     .square{
         display: block;
@@ -57,9 +59,7 @@
     .navbar-brand{
         display:none;
     }
-    .content{
-        margin-right:230px;
-    }
+    
 }
 
 @media screen and (min-width:2px )and (max-width:992px){
@@ -73,7 +73,8 @@
 
     
 .header{
-    min-height:15vh;
+    
+    min-height:10vh;
     background-color:#e0b86e;
     text-align: center;
     font-size: 3rem;

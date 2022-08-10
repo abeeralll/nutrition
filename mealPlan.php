@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Meal Plan Packages</title>
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -15,7 +15,8 @@
 
 
     <?php include('navbar.php') ?>
-    <div class="content">
+    <div class="container-fluid" style="max-width:100%">
+    
         <div class="container-fluid header d-flex justify-content-center align-items-center ">
             <span class="boxText" style="font-size:2rem; font-weight:200">“LET FOOD BE THY MEDICINE AND MEDICINE BE THY FOOD”</span>
         </div>
@@ -33,7 +34,7 @@
                         <div class="card-body d-flex flex-column align-items-center">
                             <h5 class="card-title">4 Weeks Meal Plan</h5>
                             <p class="card-text" style="font-style:italic">$100 AUD</p>
-                            <a href="#" class="btn btn-primary" style="background-color:black ;color:#e0b86e;">Get</a>
+                            <a href="#" class="btn form-control" style="background-color:black ;color:#e0b86e;">Get</a>
                         </div>
                     </div>
                 </div>
@@ -43,7 +44,7 @@
                         <div class="card-body d-flex flex-column align-items-center">
                             <h5 class="card-title">8 Weeks Meal Plan</h5>
                             <p class="card-text" style="font-style:italic">$180 AUD</p>
-                            <a href="#" class="btn btn-primary" style="background-color:black ;color:#e0b86e;">Get</a>
+                            <a href="#" class="btn form-control" style="background-color:black ;color:#e0b86e;">Get</a>
                         </div>
                     </div>
                 </div>
@@ -53,7 +54,7 @@
                         <div class="card-body d-flex flex-column align-items-center">
                             <h5 class="card-title">12 Weeks Meal Plan</h5>
                             <p class="card-text" style="font-style:italic">$260 AUD</p>
-                            <a href="#" class="btn btn-primary" style="background-color:black ;color:#e0b86e;">Get</a>
+                            <a href="#" class="btn form-control" style="background-color:black ;color:#e0b86e;">Get</a>
                         </div>
                     </div>
                 </div>
@@ -61,10 +62,12 @@
         </div>
 
 
-    </div>
+    
+
 
 
     <?php include('footer.php') ?>
+</div>
 
 
 

@@ -1,8 +1,8 @@
-<?php include('navbar.php') ?>
 
-<div class="content">
-    <div class="container-fluid header d-flex justify-content-center align-items-center mt-0">
-        <span class="boxText" style="font-size:2rem; font-weight:200">"Eat Well, Live Strong!"</span>
+
+<?php include('navbar.php') ?>
+    <div class="container-fluid header d-flex justify-content-center align-items-center">
+        <span style="font-size:2rem; font-weight:200">"Eat Well, Live Strong!"</span>
     </div>
 
     <div class="container" style="width:100%; height:auto;">
@@ -85,4 +85,3 @@
 
     </div>
 
-</div>
