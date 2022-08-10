@@ -27,6 +27,7 @@
 
 
         <script src="js/bootstrap.bundle.js"></script>
+        
         <script src="js/jquery-3.6.0.min.js"></script>
         <script src="lib/jquery.form.js"></script>
         <script src="dist/jquery.validate.js"></script>
