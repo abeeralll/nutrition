@@ -22,20 +22,24 @@
   }
 
   .hoverActive .nav-link:hover{
-    color: rgb(51, 162, 20);
+    color: rgb(32, 109, 11);
     font-weight:bolder;
   }
-@media screen and (min-width:1595px){
+/* @media screen and (min-width:1595px){ 
 
-     .navbar .tblock{
+      .navbar .tblock{
+        
         height:100%;
-        width: 230px;
+        width: 220px;
         position: absolute;
         top:0;
         right: 0;
-        background-color: #fffefe;
+        
+        background-color: #ffffff;
         display: block;
-        margin-top: 170px; 
+        margin-top: 170px;
+        margin-left: 200px; 
+        
         
     }
     .square{
@@ -60,16 +64,12 @@
         display:none;
     }
     
-}
+} */
 
-@media screen and (min-width:2px )and (max-width:992px){
-    .navbar-nav > li {
-        display: block;
-        float:none;
-    }
+
     
  
-}
+
 
     
 .header{
@@ -78,7 +78,7 @@
     background-color:#e0b86e;
     text-align: center;
     font-size: 3rem;
-    font-style:italic;
+    
     
 }
     
@@ -86,5 +86,9 @@
     width: 100%;
     height: auto;
 
+}
+
+.btn{
+    
 }
 

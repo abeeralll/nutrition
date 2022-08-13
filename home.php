@@ -1,6 +1,7 @@
 
 
 <?php include('navbar.php') ?>
+
     <div class="container-fluid header d-flex justify-content-center align-items-center">
         <span style="font-size:2rem; font-weight:200">"Eat Well, Live Strong!"</span>
     </div>
@@ -10,7 +11,7 @@
     </div>
 
     <div class="container  d-flex flex-column justify-content-center align-items-center ">
-        <h3 class="my-5" style="color:darkgoldenrod; font-weight:500">What are clients Saying?</h3>
+        <h1 class="my-5" style="color:darkgoldenrod; font-weight:400">WHAT ARE CLIENTS SAYING</h1>
 
 
         <div class="row">
@@ -84,4 +85,4 @@
 
 
     </div>
-
+  

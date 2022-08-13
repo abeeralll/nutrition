@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Adriana Daniels Nutrition</title>
+    <link rel="icon" type="image/x-icon" href="image/favicon.png">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -13,14 +14,17 @@
 
 <body>
     
-    <div class="container-fluid" style="max-width:100%">
     
     <?php include('home.php') ?>
 
+    
+    
+    
+
         
 
-<?php include('footer.php') ?>
-    </div>    
+    <?php include('footer.php') ?>
+     
         
      
        

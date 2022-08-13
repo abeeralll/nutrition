@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meal Plan Packages</title>
+    <link rel="icon" type="image/x-icon" href="image/favicon.png">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -15,10 +16,10 @@
 
 
     <?php include('navbar.php') ?>
-    <div class="container-fluid" style="max-width:100%">
     
-        <div class="container-fluid header d-flex justify-content-center align-items-center ">
-            <span class="boxText" style="font-size:2rem; font-weight:200">“LET FOOD BE THY MEDICINE AND MEDICINE BE THY FOOD”</span>
+    
+        <div class="container-fluid header d-flex justify-content-center align-items-center">
+            <span style="font-size:2rem; font-weight:200">“Let Food be Thy Medicine and Medicine be Thy Food”</span>
         </div>
 
         <div class="container">
@@ -67,7 +68,7 @@
 
 
     <?php include('footer.php') ?>
-</div>
+
 
 
 

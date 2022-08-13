@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact Me</title>
+    <link rel="icon" type="image/x-icon" href="image/favicon.png">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -15,12 +16,17 @@
 
 
     <?php include('navbar.php')?>
-    <div class="container-fluid" style="max-width:100%">
 
-    <div class="container" style="margin: right 230px;">
+    <div class="container-fluid header d-flex justify-content-center align-items-center">
+        <span style="font-size:2rem; font-weight:200">"To eat is a necessity, but to eat intelligently is an art."</span>
+    </div>
+
+   
+    <div class="container">
+    
         <div class="row mt-5">
             <h1 class="d-flex flex-row justify-content-center align-items-center" style="color:darkgoldenrod; font-weight:400">
-                Contact Adriana
+                CONTACT ADRIANA
             </h1>
             <p class="d-flex flex-row justify-content-center align-items-center mt-3">
                 For any enquiries please complete the details below or feel free to send an email at info@adrianadanielsnutrition.com.au
@@ -65,13 +71,14 @@
                
             </form>
         </div>
-    </div>
+
+        </div>
+    
 
    
 
 
     <?php include('footer.php') ?>
-</div>
 
 
 

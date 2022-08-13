@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meet Adriana</title>
+    <link rel="icon" type="image/x-icon" href="image/favicon.png">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="css/style.css">
@@ -15,7 +16,7 @@
 
 
     <?php include('navbar.php') ?>
-    <div class="container-fluid" style="max-width:100%">
+    
     
         <div class="container-fluid header d-flex justify-content-center align-items-center mt-0">
             <span class="boxText" style="font-size:2rem; font-weight:200">“Your meal plan will be personalised JUST FOR YOU to compliment your
@@ -24,14 +25,17 @@
 
         <div class="container mt-5">
             <div class="row">
-                <div class="col">
+                <h1 class="d-flex flex-row justify-content-center align-items-center" style="color:darkgoldenrod; font-weight:400">
+                        MEET ADRIANA DANIELS
+                </h1>
+
+
+                <div class="col-lg row">
                     <img src="image/imageNu.jpg" class="image mt-5" style="width:95%; height:auto;">
 
                 </div>
-                <div class="col mt-5 d-flex flex-column align-items-center">
-                    <h2 style="color:darkgoldenrod; font-weight:200">
-                        MEET ADRIANA DANIELS
-                    </h2>
+                <div class="col-lg row mt-5 d-flex flex-column align-items-center">
+                    
                     <div class="introduction" style="font-size:1.1rem">
                     <p>
                         Hi, I’m Adriana Daniels and since my early teens I have had a great passion for health and fitness. I have completed four years of study, undertaking my Bachelors in Food Science and Nutrition, working towards my goal of sharing my knowledge with clients through encouragement, education and support. </p>
@@ -58,7 +62,7 @@
 
         
  <?php include('footer.php') ?>
- </div>
+
     
 
 

@@ -1,4 +1,4 @@
-<div class="footer row mt-4 p-4">
+<div class="footer mt-4 p-4" style="max-width:100%">
     <div class="d-flex flex-column justify-content-center align-items-center">
         <div class="row">
             <h2>Subscribe Form</h2>
