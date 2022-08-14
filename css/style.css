@@ -1,3 +1,15 @@
+@font-face {
+    font-family:Josefin;
+    src: url(../font/JosefinSans-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family:Wondar;
+    src: url(../font/Wondar\ Quason\ Free.ttf);
+}
+*{
+    font-family:Josefin;
+}
 .navbar-nav {
     margin:0 auto;
     display: block;
@@ -87,8 +99,47 @@
     height: auto;
 
 }
-
 .btn{
-    
+    font-weight: bold;
 }
 
+.btn:hover{
+    opacity: 0.9;
+}
+.btn:active{
+    transition-duration: 0.35s;
+    -moz-transform: scale(1);
+      -ms-transform:scale(1);
+      -o-transform: scale(1);
+      -webkit-transform: scale(1);
+      transform: scale(1);
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 5px;
+    border-radius: 50%;
+    
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      color: #e0b86e;
+  }
+  
+  .fa-facebook {
+   
+    color: rgb(0, 0, 0);
+  }
+  
+  .fa-linkedin {
+    color: rgb(0, 0, 0);
+  }
+
+  .fa-instagram {
+    color: rgb(0, 0, 0);
+  }

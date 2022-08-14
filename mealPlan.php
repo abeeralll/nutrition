@@ -77,6 +77,7 @@
 <script src="js/bootstrap.bundle.js"></script>
 <script src="js/jquery-3.6.0.min.js"></script>
 <script src="lib/jquery.form.js"></script>
+<script src="js/page.js"></script>
 <script src="dist/jquery.validate.js"></script>
 <script src="https://kit.fontawesome.com/70c966dfe1.js" crossorigin="anonymous"></script>
 

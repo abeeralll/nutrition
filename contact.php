@@ -15,15 +15,15 @@
 <body>
 
 
-    <?php include('navbar.php')?>
+    <?php include('navbar.php') ?>
 
     <div class="container-fluid header d-flex justify-content-center align-items-center">
         <span style="font-size:2rem; font-weight:200">"To eat is a necessity, but to eat intelligently is an art."</span>
     </div>
 
-   
+
     <div class="container">
-    
+
         <div class="row mt-5">
             <h1 class="d-flex flex-row justify-content-center align-items-center" style="color:darkgoldenrod; font-weight:400">
                 CONTACT ADRIANA
@@ -62,20 +62,25 @@
 
 
                 </div>
-                <div class="m-5 d-flex flex-row justify-content-center align-items-center">
-                <button type="submit" class="btn px-5 " style="background-color:black; color:#e0b86e;">Submit</button>
+                <div class="mt-5 d-flex flex-row justify-content-center align-items-center">
+                    <button type="submit" onclick ="submitfu()"class="btn px-5" style="background-color:black; color:#e0b86e;">Submit</button>
 
                 </div>
 
 
-               
+
             </form>
         </div>
-
+        <div class="mt-3 d-flex flex-row justify-content-center align-items-center">
+            <div class="p-2"><a href="https://www.facebook.com/abeeral.shrestha10/" target="_blank" class="fa fa-facebook d-flex justify-content-center align-items-center"></a></div>
+            <div class="p-2"><a href="https://www.linkedin.com/in/abiral-shrestha-b88a511a5" target="_blank" class="fa fa-linkedin d-flex justify-content-center align-items-center"></a></div>
+            <div class="p-2"><a href="https://www.instagram.com/abee_raal/" target="_blank" class="fa fa-instagram d-flex justify-content-center align-items-center"></a></div>
         </div>
-    
 
-   
+    </div>
+
+
+
 
 
     <?php include('footer.php') ?>
@@ -87,6 +92,7 @@
 <script src="js/bootstrap.bundle.js"></script>
 <script src="js/jquery-3.6.0.min.js"></script>
 <script src="lib/jquery.form.js"></script>
+<script src="js/page.js"></script>
 <script src="dist/jquery.validate.js"></script>
 <script src="https://kit.fontawesome.com/70c966dfe1.js" crossorigin="anonymous"></script>
 

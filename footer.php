@@ -9,17 +9,18 @@
 
     </div>
     <div class="d-flex flex-column justify-content-center align-items-center">
-        <form class="d-flex flex-wrap">
-            <div class="mx-3 my-3">
-                <input type="text" class="form-control p-3" placeholder="First Name">
+        <form class="col d-flex flex-wrap">
+            <div class=" mx-3 my-3 ">
+
+                <input type="text" class="form-control p-3" placeholder="First Name" required>
             </div>
-            <div class="mx-3 my-3">
-                <input type="text" class="form-control p-3" placeholder="Last Name">
+            <div class=" mx-3 my-3 ">
+                <input type="text" class="form-control p-3" placeholder="Last Name" required>
             </div>
-            <div class="mx-3 my-3">
-                <input type="email" class="form-control p-3" placeholder="Email Address">
+            <div class=" mx-3 my-3 ">
+                <input type="email" class="form-control p-3" placeholder="Email Address" required>
             </div>
-            <button type="submit" class="btn mx-3 my-3" style="background-color:black ;color:#e0b86e;">Submit</button>
+            <button type="submit" class="btn mx-3 my-3 d-flex justify-content-center align-items-center " style="background-color:black ;color:#e0b86e;" onclick="submitfu()">Submit</button>
         </form>
     </div>
 </div>

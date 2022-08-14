@@ -10,7 +10,7 @@
         <img src="image/nutritionist.jpg" class="image">
     </div>
 
-    <div class="container  d-flex flex-column justify-content-center align-items-center ">
+    <div class="container  d-flex flex-column justify-content-center align-items-center mb-4">
         <h1 class="my-5" style="color:darkgoldenrod; font-weight:400">WHAT ARE CLIENTS SAYING</h1>
 
 
@@ -22,7 +22,7 @@
 
                 </div>
 
-                <div class="row flex-row p-5 mx-2">
+                <div class="row flex-row p-5 mx-2" style="text-align:justify;font-weight:350">
                     “Working with Adriana was very easy and throughout
                     the 8 weeks not once did it feel like I was on a diet.
                     I was still eating delicious and filling foods whilst
@@ -33,8 +33,8 @@
                     
 
                 </div>
-                <div class="d-flex flex-row justify-content-center" style="font-style:italic;">
-                    <h3>-Emma Hayes</h3>
+                <div class="d-flex flex-row justify-content-center mb-5" style="font-style:italic;">
+                    <h3>-Robin Sparkles</h3>
                 </div>
 
             </div>
@@ -43,7 +43,7 @@
                     <img src="image/pat (2).jpg" class="image">
 
                 </div>
-                <div class="row flex-row p-5 mx-2">
+                <div class="row flex-row p-5 mx-2" style="text-align:justify;font-weight:350">
                     “Adriana was very friendly and catered to my coeliac disease
                     needs with a range of exceedingly delicious meals that helped
                     me achieve my goals. I was immediately impressed with her knowledge
@@ -53,8 +53,8 @@
                     Adriana has taught me that I don’t need to deprive myself from great tasting food
                     in order to lose weight”.
                 </div>
-                <div class="d-flex flex-row justify-content-center " style="font-style:italic;">
-                    <h3>-Pat Cummins</h3>
+                <div class="d-flex flex-row justify-content-center mb-5 " style="font-style:italic;">
+                    <h3>-Lorenzo Von Matterhorn</h3>
                 </div>
 
             </div>
@@ -63,7 +63,7 @@
                     <img src="image/tracey.jpg" class="image">
 
                 </div>
-                <div class="row flex-row p-5 mx-2">
+                <div class="row flex-row p-5 mx-2" style="text-align:justify;font-weight:350">
                     “Adriana portrays a high level of professionalism and
                     sincerity. Not only have I lost weight but I now have
                     more energy and I feel healthier overall. After completing
@@ -72,7 +72,7 @@
                     Thank you Adriana for keeping me motivated, giving me encouragement
                     and advice each week to help me succeed.”
                 </div>
-                <div class="d-flex flex-row justify-content-center mt-4" style="font-style:italic;">
+                <div class="d-flex flex-row justify-content-center mt-4 mb-5" style="font-style:italic;">
                     <h3>-Tracey Mosby</h3>
                 </div>
 
