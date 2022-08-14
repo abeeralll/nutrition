@@ -10,6 +10,7 @@
 *{
     font-family:Josefin;
 }
+
 .navbar-nav {
     margin:0 auto;
     display: block;
@@ -17,11 +18,12 @@
     font-weight: bold;
     font-size: 1.2rem;
 }
-
-.navbar-nav > li {
+.navbar-collapse .navbar-nav > li {
     display: inline-block;
     float:none;
 }
+
+
 .square{
     display: none;
     height: 80px;
@@ -78,12 +80,6 @@
     
 } */
 
-
-    
- 
-
-
-    
 .header{
     
     min-height:10vh;
