@@ -72,7 +72,7 @@
                     Thank you Adriana for keeping me motivated, giving me encouragement
                     and advice each week to help me succeed.”
                 </div>
-                <div class="d-flex flex-row justify-content-center mt-4 mb-5" style="font-style:italic;">
+                <div class="d-flex flex-row justify-content-center  mb-5" style="font-style:italic;">
                     <h3>-Tracey Mosby</h3>
                 </div>
 

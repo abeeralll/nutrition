@@ -11,17 +11,14 @@
     font-family:Josefin;
 }
 
-.navbar-nav {
+
+  .navbar-nav {
     margin:0 auto;
-    display: block;
+    display: inline-block;
     text-align: center;
-    font-weight: bold;
     font-size: 1.2rem;
 }
-.navbar-collapse .navbar-nav > li {
-    display: inline-block;
-    float:none;
-}
+
 
 
 .square{
@@ -39,7 +36,7 @@
     color: rgb(32, 109, 11);
     font-weight:bolder;
   }
-/* @media screen and (min-width:1595px){ 
+ /* @media screen and (min-width:1595px){ 
 
       .navbar .tblock{
         
@@ -79,6 +76,7 @@
     }
     
 } */
+
 
 .header{
     

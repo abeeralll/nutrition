@@ -74,7 +74,7 @@
         <div class="mt-3 d-flex flex-row justify-content-center align-items-center">
             <div class="p-2"><a href="https://www.facebook.com/abeeral.shrestha10/" target="_blank" class="fa fa-facebook d-flex justify-content-center align-items-center"></a></div>
             <div class="p-2"><a href="https://www.linkedin.com/in/abiral-shrestha-b88a511a5" target="_blank" class="fa fa-linkedin d-flex justify-content-center align-items-center"></a></div>
-            <div class="p-2"><a href="https://www.instagram.com/abee_raal/" target="_blank" class="fa fa-instagram d-flex justify-content-center align-items-center"></a></div>
+            <div class="p-2"><a href="https://www.instagram.com/abee_raal/" target="_blank" class="fa fa-instagram  d-flex justify-content-center align-items-center"></a></div>
         </div>
 
     </div>
