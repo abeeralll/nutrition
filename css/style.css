@@ -12,9 +12,9 @@
 }
 
 
-  .navbar-nav {
+.navbar-nav {
     margin:0 auto;
-    display: inline-block;
+    
     text-align: center;
     font-size: 1.2rem;
 }

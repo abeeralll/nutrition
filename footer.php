@@ -9,9 +9,8 @@
 
     </div>
     <div class="d-flex flex-column justify-content-center align-items-center">
-        <form class="col d-flex flex-wrap">
-            <div class=" mx-3 my-3 ">
-
+        <form class="d-flex flex-md-row flex-column ">
+            <div class="mx-3 my-3 ">
                 <input type="text" class="form-control p-3" placeholder="First Name" required>
             </div>
             <div class=" mx-3 my-3 ">
