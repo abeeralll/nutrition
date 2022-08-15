@@ -13,23 +13,8 @@
 </head>
 
 <body>
-    
-    
     <?php include('home.php') ?>
-
-    
-    
-    
-
-        
-
     <?php include('footer.php') ?>
-     
-        
-     
-       
-
-
         <script src="js/bootstrap.bundle.js"></script>
         <script src="js/page.js"></script>
         <script src="js/jquery-3.6.0.min.js"></script>

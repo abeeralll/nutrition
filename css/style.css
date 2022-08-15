@@ -19,18 +19,17 @@
     font-size: 1.2rem;
 }
 
-
-
-.square{
-    display: none;
-    height: 80px;
-    width: 80px;
+.navbar-brand .logoPic:hover{
+    transition-duration: 0.35s;
+    -moz-transform: rotate(30deg);
+    -ms-transform:rotate(30deg);
+    -o-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+  
 
 }
-.square img {
-    width: 100%;
-    height: auto;
-  }
+
 
   .hoverActive .nav-link:hover{
     color: rgb(32, 109, 11);

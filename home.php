@@ -10,8 +10,8 @@
         <img src="image/nutritionist.jpg" class="image">
     </div>
 
-    <div class="container  d-flex flex-column justify-content-center align-items-center mb-4">
-        <h1 class="my-5" style="color:darkgoldenrod; font-weight:400">WHAT ARE CLIENTS SAYING</h1>
+    <div class="container d-flex flex-column justify-content-center align-items-center mb-4">
+        <h1 class="my-5 d-flex flex-column justify-content-center align-items-center" style="color:darkgoldenrod; font-weight:400;text-align:center;">WHAT ARE CLIENTS SAYING</h1>
 
 
         <div class="row">
@@ -53,7 +53,7 @@
                     Adriana has taught me that I don’t need to deprive myself from great tasting food
                     in order to lose weight”.
                 </div>
-                <div class="d-flex flex-row justify-content-center mb-5 " style="font-style:italic;">
+                <div class="d-flex flex-row justify-content-center align-items-center mb-5 " style="font-style:italic;">
                     <h3>-Lorenzo Von Matterhorn</h3>
                 </div>
 

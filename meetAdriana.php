@@ -30,11 +30,11 @@
                 </h1>
 
 
-                <div class="col-lg row">
+                <div class="col-lg row d-flex flex-md-column justify-content-center align-items-center">
                     <img src="image/imageNu.jpg" class="image mt-5" style="width:95%; height:auto;">
 
                 </div>
-                <div class="col-lg row mt-5 d-flex flex-column align-items-center">
+                <div class="col-lg row mt-5 d-flex flex-md-column justify-content-center align-items-center">
                     
                     <div class="introduction" style="font-size:1.1rem" >
                     <p style="text-align:justify">
