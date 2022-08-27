@@ -49,9 +49,7 @@
                     <p style="text-align:justify">My social media platforms provide nutrition education to the general public to develop knowledge and skills. I’ll break down nutrition to the basics so you can make informed decisions and create healthy habits. If you ever have any questions please do not hesitate to send me an email info@AdrianaDanielsnutrition.com.au and free to follow me on Instagram and Facebook @AdrianaDanielsnutrition</p>
 
                     <p style="text-align:justify">Looking forward to working with you. </p>
-
-
-                    </div>
+                </div>
                 </div>
             </div>
         </div>
